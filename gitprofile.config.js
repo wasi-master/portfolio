@@ -21,7 +21,7 @@ const config = {
     behance: 'WasiMaster',
     medium: 'wasimaster',
     dev: 'wasimaster',
-    stackoverflow: 'wasi-master', // example: '1/jeff-atwood'
+    stackoverflow: '13123877/wasi-master', // example: '1/jeff-atwood'
     skype: '',
     telegram: 'WasiMaster',
     website: 'https://wasi-master.github.io',

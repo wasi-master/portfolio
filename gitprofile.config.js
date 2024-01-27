@@ -24,9 +24,9 @@ const config = {
     stackoverflow: 'wasi-master', // example: '1/jeff-atwood'
     skype: '',
     telegram: 'WasiMaster',
-    website: 'https://arifszn.com',
+    website: 'https://wasi-master.github.io',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'arianmollik323@gmail.com',
   },
   resume: {
     fileUrl:
